@@ -1,3 +1,6 @@
+# Don't track files that are not mine to distribute
+*_int*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
